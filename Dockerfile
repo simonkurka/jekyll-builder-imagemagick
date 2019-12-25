@@ -1,2 +1,2 @@
 FROM jekyll/builder
-RUN apk add imagemagick6
+RUN apk add imagemagick6-dev
